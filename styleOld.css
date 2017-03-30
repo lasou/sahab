@@ -1,0 +1,181 @@
+
+
+
+h1{ 
+  font-family: ThreeDLightShadow;        
+  background: #99AAFF;   
+  color: white;              
+  font-size: 35px;             
+  text-align: center;  
+}
+header{
+background: #99AAFF; 
+border-style: solid;
+border-width: 10px;
+border-color: #99AAFF; 
+}
+
+h2{ 
+  font-family: ThreeDLightShadow; 
+  color: #1133bb;              
+  font-size: 22px;             
+  text-align: left;  
+}
+
+h3{ 
+  font-family: ThreeDLightShadow; 
+  color: #1133bb;              
+  font-size: 17px;             
+  text-align: left; 
+}
+
+.sommaire{
+	height:420px;
+    width: 200px;
+     position: relative; 
+     top: 30px; 
+     left:0px;
+	 border-style: solid;
+border-width: 3px;
+border-color: #aaaaff;              
+  font-size: 16px; 
+}
+
+
+#titresommaire{
+	color: #1133cc;
+  font-size: 19px;             
+  text-align: center; 
+}
+
+/*--------------------------*/
+aside{
+	height: 90px;
+    width: 420px;
+     position: relative; 
+     top: -330px; 
+     left: 260px;
+	 border-style: solid;
+border-width: 5px;
+border-color: #9900cc;  
+ color: #5500ff;              
+  font-size: 16px; 
+}
+
+
+
+
+/*---------------------------------*/
+
+
+.sec1{
+	 position: relative; 
+     top: -380px; 
+     left: 260px;
+}
+
+
+
+.sec2{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+.sectiontitres{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+.sectionparagraphe{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+
+.sectionformat{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+.sectionliste{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+.sectionechapp{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+
+.sectionsouligne{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+#validateur{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+
+.sectionavance{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+.sectionlien{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+.centree{
+	text-align: left-side;
+}
+
+.sectionimg{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+
+
+.sectiontab{
+	 position: relative; 
+     top: -350px; 
+     left: 260px;
+}
+
+footer{
+	position: relative; 
+     top: -30px; 
+     left: 260px;
+}
